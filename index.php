@@ -17,11 +17,7 @@
 
   <!-- CSS -->
   <link href="css/freelancer.min.css" rel="stylesheet">
-
-</head>
-
-<body id="page-top">
-    <!-- Bootstrap core JavaScript -->
+  <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
@@ -35,6 +31,10 @@
   <!-- Custom scripts for this template -->
   <script src="js/freelancer.min.js"></script>
 
+</head>
+
+<body id="page-top">
+  
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
     <div class="container">
